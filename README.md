@@ -1,3 +1,23 @@
+# US Regional Sales & Profitability Analysis 
+
+# About the Dataset:
+The analysis is based on the US_Regional_Sales_Data.csv file, a raw transactional dataset containing over 7,900 records of sales orders for a fictional US-based company. The data spans from May 2018 to February 2020, providing a multi-year view of the company's performance.   
+
+Each row represents a single line item from a sales order and is rich with detail, containing 16 columns that can be categorized as follows:
+
+- Identifier Columns: Order Number, Sales TeamID, Customer ID, Store ID, Product ID.
+
+- Categorical Columns: Sales Channel (e.g., In-Store, Online, Distributor) and Warehouse Code.
+
+- Date Columns: Procured Date, Order Date, Ship Date, Delivery Date, which allow for the analysis of logistical timelines.
+
+- Financial Columns: Order Quantity, Discount Applied, Unit Cost, and Unit Price.
+
+# Data Quality Challenge:
+A key aspect of this project was addressing the data quality issues present in the raw file. The financial columns, Unit Cost and Unit Price, were formatted as text fields containing currency symbols ("$") and commas (e.g., "$1,001.18"). This made them unusable for numerical calculations in their initial state.   
+
+A significant part of the workflow in Power Query was dedicated to cleaning these columns by removing the non-numeric characters and converting the data type to a decimal number. This transformation was a critical prerequisite for all subsequent financial analysis, including the calculation of Net Sales, Gross Profit, and Profit Margin.
+
 # US Regional Sales & Profitability Analysis Dashboard
 
 # Project Overview:
