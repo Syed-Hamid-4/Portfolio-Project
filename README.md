@@ -43,3 +43,17 @@ The primary objective was to transform raw, multi-file sales data into a dynamic
 - Average of Shipping Days
 
 These measures were used to populate the high-level KPI cards at the top of the dashboard, providing an immediate summary of performance.
+
+# Dashboard Design & Key Insights
+The final dashboard is a single-page report designed to provide a comprehensive overview of business performance.
+
+<img width="1380" height="809" alt="image" src="https://github.com/user-attachments/assets/031c768c-e500-4a6a-b6fa-6465bc40c777" />
+
+
+Key Insights from the Dashboard:
+
+- Warehouse Performance: The treemap visual clearly identifies WARE-NMK1003 as the largest contributor to net sales.
+
+- Channel Distribution: The "In-Store" channel accounts for the largest portion of sales distribution, followed by "Online."
+
+- Profitability Analysis: The "Gross Profit % by Discount Applied" chart reveals a strong negative correlation, indicating that as discounts increase, the gross profit percentage sharply declines. This suggests that high discount strategies may be unsustainable and are a key area for further investigation.
