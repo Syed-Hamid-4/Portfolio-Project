@@ -1,5 +1,5 @@
 # Portfolio-Project
-##US Regional Sales & Profitability Analysis Dashboard
+# US Regional Sales & Profitability Analysis Dashboard
 
 Project Overview:
 This project is an end-to-end business intelligence solution developed in Power BI. It analyzes transactional sales data for a fictional US-based company to uncover key insights into sales performance, profitability drivers, warehouse efficiency, and the impact of discount strategies.
