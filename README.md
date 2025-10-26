@@ -1,4 +1,3 @@
-# Portfolio-Project
 # US Regional Sales & Profitability Analysis Dashboard
 
 # Project Overview:
