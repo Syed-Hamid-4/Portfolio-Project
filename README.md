@@ -1,5 +1,7 @@
 # US Regional Sales & Profitability Analysis 
 
+https://github.com/user-attachments/assets/6f902e8d-7da8-4f1a-9a96-17e38b335fa0
+
 # About the Dataset:
 The analysis is based on the US_Regional_Sales_Data.csv file, a raw transactional dataset containing over 7,900 records of sales orders for a fictional US-based company. The data spans from May 2018 to February 2020, providing a multi-year view of the company's performance.   
 
